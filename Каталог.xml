@@ -1,0 +1,57 @@
+<catalog>
+    <name Имя="Иван">
+        <age>
+            30
+        </age>
+        <prof>
+            Учитель
+        </prof>
+        <country>
+            Санкт Петербург
+        </country>
+    </name>
+    <name Имя="Анна">
+        <age>
+            25
+        </age>
+        <prof>
+            Инженер
+        </prof>
+        <country>
+            Москва
+        </country>
+    </name>
+    <name Имя="Максим">
+        <age>
+            27
+        </age>
+        <prof>
+            Программист
+        </prof>
+        <country>
+            Екатеринбург
+        </country>
+    </name>
+    <name Имя="Ольга">
+        <age>
+            26
+        </age>
+        <prof>
+            Дизайнер
+        </prof>
+        <country>
+            Краснодар
+        </country>
+    </name>
+    <name Имя="Елена">
+        <age>
+            28
+        </age>
+        <prof>
+            Врач
+        </prof>
+        <country>
+            Новосибирск
+        </country>
+    </name>
+</catalog>
